@@ -10,3 +10,5 @@ the function of the button to move/navigate to the second screen
 the main screen continued 
 ![Screenshot 2025-06-19 150215](https://github.com/user-attachments/assets/b82947cb-a421-4786-892b-acbde8c0824a)
 the frist main screen of code , which includes the arrays 
+
+https://github.com/OJOkafor/IMAD-5112-PRACTICUM-  (The link to my repository )
